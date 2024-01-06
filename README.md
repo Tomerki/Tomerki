@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Computer science student at Bar-Ilan University,  expected to graduate in March 2024.<br>👯 I’m looking junior code developer position<br>🌱 I'm currently learning game development in Unity<br>💬 Ask me about C++ programming<br>
+🔭 I'm Computer science student at Bar-Ilan University,  expected to graduate in March 2024.<br>👯 I’m looking for junior code developer position<br>🌱 I'm currently learning backend development more deeply<br>💬 Ask me about C++ programming<br>
 
 
 ## 🌐 Socials:
