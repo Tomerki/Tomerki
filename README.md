@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Computer Science graduate from Bar-Ilan University.<br>👯 I’m looking for junior code developer position<br>🌱 I'm currently learning backend development more deeply<br>💬 Ask me about C++ programming<br>
+🔭 I'm a Computer Science graduate from Bar-Ilan University.<br>👯 I’m a fullstack developer at Helfy<br>🌱 I'm currently learning backend development more deeply<br>💬 Ask me about C++ programming<br>
 
 
 ## 🌐 Socials:
